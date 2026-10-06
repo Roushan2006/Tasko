@@ -275,11 +275,7 @@ From the project root:
 uv run python agent/graph.py
 ```
 
-On Windows, you can also run:
 
-```powershell
-C:\Users\roush\.local\bin\uv.exe run C:/Users/roush/OneDrive/Desktop/Tasko/.venv/Scripts/python.exe C:\Users\roush\OneDrive\Desktop\Tasko\agent\graph.py
-```
 
 ---
 
