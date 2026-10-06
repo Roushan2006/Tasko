@@ -162,11 +162,10 @@ The Coder can:
 Tasko/
 │
 ├── agent/
-│   └── graph.py
-│
-├── prompts.py
-├── state.py
-├── tools.py
+|   └── graph.py  
+|   ├── prompts.py
+|   ├── state.py
+|   ├── tools.py
 │
 ├── .env
 ├── .gitignore
